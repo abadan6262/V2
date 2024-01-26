@@ -335,3 +335,9 @@ vmess://eyJhZGQiOiI4OTU1Lm91dGxpbmUtdnBuLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJm
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80/?type=ws&encryption=none&host=ehda.sajaditsme.com&path=%2F%3Fed%3D2048#Father%27s%2BDay%2B50%2BID%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Father%27s%2BDay%2B55%2BID%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Father%27s%2BDay%2B58%2BID%28%40Outline_Vpn%29
+vless://8f4211ee-290c-4d66-a269-ccf08e3eef3a@zula.ir:443/?type=grpc&encryption=none&serviceName=%40melov2ray&security=tls&sni=FIn.Melov2ray.Shop&fp=random#12%2BJoin%2Bto%28%40Outline_Vpn%29
+vless://8f4211ee-290c-4d66-a269-ccf08e3eef3a@fin.melov2ray.shop:443/?type=grpc&encryption=none&serviceName=%40melov2ray&security=tls&sni=FIn.Melov2ray.Shop&fp=random#14%2BJoin%2Bto%28%40Outline_Vpn%29
+vmess://eyJhZGQiOiI4OTU1Lm91dGxpbmUtdnBuLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiMTYgSm9pbiB0byhAT3V0bGluZV9WcG4pIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80/?type=ws&encryption=none&host=ehda.sajaditsme.com&path=%2F%3Fed%3D2048#Father%27s%2BDay%2B50%2BID%28%40Outline_Vpn%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Father%27s%2BDay%2B55%2BID%28%40Outline_Vpn%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Father%27s%2BDay%2B58%2BID%28%40Outline_Vpn%29
