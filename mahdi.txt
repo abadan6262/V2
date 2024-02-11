@@ -1,6 +1,5 @@
-vless://b0679a69-23c3-4442-9097-fe676e990d7e@m-11.miladko.store:50192?security=none&encryption=none&headerType=http&type=tcp#--8buxbhuw
-vless://fe335ad1-03b6-43ee-bc7c-5748ae59c655@sec.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=svnV2rayteep.snappfoode.com#mfabadan62
-vless://fe335ad1-03b6-43ee-bc7c-5748ae59c655@mci.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=svnV2rayteep.snappfoode.com#mfabadan62
-vless://fe335ad1-03b6-43ee-bc7c-5748ae59c655@org.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=svnV2rayteep.snappfoode.com#mfabadan62
-vless://fe335ad1-03b6-43ee-bc7c-5748ae59c655@mtn.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=svnV2rayteep.snappfoode.com#mfabadan62
-
+vless://4bfb383fd65e4297b9e01b934ad651e4@mtn.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=SvnV2rayNewUKK.snappfoode.com#server+2+-+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://4bfb383fd65e4297b9e01b934ad651e4@mci.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=SvnV2rayNewUKK.snappfoode.com#server+2+-+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
+vless://4bfb383fd65e4297b9e01b934ad651e4@sec.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=SvnV2rayNewUKK.snappfoode.com#server+2+-+sec
+vless://4bfb383fd65e4297b9e01b934ad651e4@org.VPNPROSEC.com:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=SvnV2rayNewUKK.snappfoode.com#server+2+-+org
+vless://b0679a69-23c3-4442-9097-fe676e990d7e@m-11.miladko.store:50192?security=none&encryption=none&headerType=http&type=tcp#server+1
