@@ -1,4 +1,4 @@
-vless://d39c57c3-38a5-48af-bb6e-e933e2981cb4@world.azadnet.pro:2222?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF+%DB%B1%DB%B0%DB%B0
+vless://d39c57c3-38a5-48af-bb6e-e933e2981cb4@world.azadnet.pro:2222?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%DB%8C%D9%88%D8%B2%D8%B1+%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF+%D8%8C+%D8%AD%D8%AC%D9%85+%DB%B1%DB%B0%DB%B0+%DA%AF%DB%8C%DA%AF
 vless://22f296f5acff4a9b901e32b95b9912f5@mci.VPNPROSEC.com:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=SvnV2rayNewGRr.snappfoode.com#server+2+-+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
 vless://22f296f5acff4a9b901e32b95b9912f5@org.VPNPROSEC.com:2053?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=SvnV2rayNewGRr.snappfoode.com#server+2+-+ORG
 vless://b0679a69-23c3-4442-9097-fe676e990d7e@m-11.miladko.store:50192?security=none&encryption=none&headerType=http&type=tcp#server+1
